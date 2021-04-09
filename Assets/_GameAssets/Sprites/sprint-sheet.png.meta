@@ -1,0 +1,779 @@
+fileFormatVersion: 2
+guid: 009b1833d9aa4d04a9a18a65460347f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8677242033077719431
+    second: sprint-sheet_0
+  - first:
+      213: -6312879307725712698
+    second: sprint-sheet_1
+  - first:
+      213: -5478320088076295154
+    second: sprint-sheet_2
+  - first:
+      213: 2923233967935473032
+    second: sprint-sheet_3
+  - first:
+      213: -1681370003556214993
+    second: sprint-sheet_4
+  - first:
+      213: 4297442031203922909
+    second: sprint-sheet_5
+  - first:
+      213: 4005424864782622570
+    second: sprint-sheet_6
+  - first:
+      213: -7700722941390172585
+    second: sprint-sheet_7
+  - first:
+      213: 2004585749449633095
+    second: sprint-sheet_8
+  - first:
+      213: -5682043905341989074
+    second: sprint-sheet_9
+  - first:
+      213: 8931066879768075382
+    second: sprint-sheet_10
+  - first:
+      213: -3328609846469108622
+    second: sprint-sheet_11
+  - first:
+      213: 7597489952590890884
+    second: sprint-sheet_12
+  - first:
+      213: 9156300423620782208
+    second: sprint-sheet_13
+  - first:
+      213: 8078791929473328335
+    second: sprint-sheet_14
+  - first:
+      213: -3943448992472332895
+    second: sprint-sheet_15
+  - first:
+      213: 3692199394708231407
+    second: sprint-sheet_16
+  - first:
+      213: 7002871394032649657
+    second: sprint-sheet_17
+  - first:
+      213: -5081795072829528275
+    second: sprint-sheet_18
+  - first:
+      213: -9197150908365093355
+    second: sprint-sheet_19
+  - first:
+      213: 6291076273597473737
+    second: sprint-sheet_20
+  - first:
+      213: -2015925013535792960
+    second: sprint-sheet_21
+  - first:
+      213: -8259322843392436473
+    second: sprint-sheet_22
+  - first:
+      213: -4658775388639372876
+    second: sprint-sheet_23
+  - first:
+      213: -6973002878731150385
+    second: sprint-sheet_24
+  - first:
+      213: 4179411059652667877
+    second: sprint-sheet_25
+  - first:
+      213: 4620907982005138057
+    second: sprint-sheet_26
+  - first:
+      213: 438992235346590030
+    second: sprint-sheet_27
+  - first:
+      213: -5609645954175190731
+    second: sprint-sheet_28
+  - first:
+      213: 1648716832440744088
+    second: sprint-sheet_29
+  - first:
+      213: -2997033003959712033
+    second: sprint-sheet_30
+  - first:
+      213: 434256540632249158
+    second: sprint-sheet_31
+  - first:
+      213: -3783057895908491337
+    second: sprint-sheet_32
+  - first:
+      213: -7011544871306367960
+    second: sprint-sheet_33
+  - first:
+      213: -8744129161325691453
+    second: sprint-sheet_34
+  - first:
+      213: -4896133324544496848
+    second: sprint-sheet_35
+  - first:
+      213: 4382226765812140597
+    second: sprint-sheet_36
+  - first:
+      213: 7465980913249700054
+    second: sprint-sheet_37
+  - first:
+      213: 217348183172324632
+    second: sprint-sheet_38
+  - first:
+      213: -7668408019780947188
+    second: sprint-sheet_39
+  - first:
+      213: 1852521057051658524
+    second: sprint-sheet_40
+  - first:
+      213: 4225877551275803888
+    second: sprint-sheet_41
+  - first:
+      213: 8809597788904786604
+    second: sprint-sheet_42
+  - first:
+      213: 3992479924279657987
+    second: sprint-sheet_43
+  - first:
+      213: -5909045833008770562
+    second: sprint-sheet_44
+  - first:
+      213: 3061355026821367312
+    second: sprint-sheet_45
+  - first:
+      213: -4632239863765273879
+    second: sprint-sheet_46
+  - first:
+      213: -1987327848570437672
+    second: sprint-sheet_47
+  - first:
+      213: -440642382919683106
+    second: sprint-sheet_48
+  - first:
+      213: -1534965530334811657
+    second: sprint-sheet_49
+  - first:
+      213: -8591658178309459934
+    second: sprint-sheet_50
+  - first:
+      213: 3321236876286269999
+    second: sprint-sheet_51
+  - first:
+      213: -1063679071625917745
+    second: sprint-sheet_52
+  - first:
+      213: -7372879009909283097
+    second: sprint-sheet_53
+  - first:
+      213: 7946030430877015965
+    second: sprint-sheet_54
+  - first:
+      213: -7561177431204995347
+    second: sprint-sheet_55
+  - first:
+      213: -4453480817976935914
+    second: sprint-sheet_56
+  - first:
+      213: -1021187831606793533
+    second: sprint-sheet_57
+  - first:
+      213: 5684345552489813739
+    second: sprint-sheet_58
+  - first:
+      213: -1633273708708054182
+    second: sprint-sheet_59
+  - first:
+      213: -7032064091106422991
+    second: sprint-sheet_60
+  - first:
+      213: -297236201861388293
+    second: sprint-sheet_61
+  - first:
+      213: 8108848793511138337
+    second: sprint-sheet_62
+  - first:
+      213: 3673026248016894001
+    second: sprint-sheet_63
+  - first:
+      213: 2476896073485938386
+    second: sprint-sheet_64
+  - first:
+      213: -3130052271988213152
+    second: sprint-sheet_65
+  - first:
+      213: 6106861385704247080
+    second: sprint-sheet_66
+  - first:
+      213: -4028623543974389387
+    second: sprint-sheet_67
+  - first:
+      213: -2042731471523332347
+    second: sprint-sheet_68
+  - first:
+      213: 4630723766050425355
+    second: sprint-sheet_69
+  - first:
+      213: 5619213447674578631
+    second: sprint-sheet_70
+  - first:
+      213: -7271854944266176865
+    second: sprint-sheet_71
+  - first:
+      213: -5322869499198553722
+    second: sprint-sheet_72
+  - first:
+      213: 9120750826009577643
+    second: sprint-sheet_73
+  - first:
+      213: 9182342626427784988
+    second: sprint-sheet_74
+  - first:
+      213: -2700048317321817772
+    second: sprint-sheet_75
+  - first:
+      213: 908157368095030381
+    second: sprint-sheet_76
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprint-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 576
+        width: 163
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e605c485e349780800000000000000
+      internalID: -8677242033077719431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprint-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 574
+        width: 163
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2581977b52468a0800000000000000
+      internalID: -6312879307725712698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprint-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 575
+        width: 188
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e046350c7e819f3b0800000000000000
+      internalID: -5478320088076295154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprint-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 576
+        width: 180
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885462e4ec9619820800000000000000
+      internalID: 2923233967935473032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprint-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 426
+        width: 163
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27d80ad3e29aa8e0800000000000000
+      internalID: -1681370003556214993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprint-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 286
+        width: 169
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd33eb032c493ab30800000000000000
+      internalID: 4297442031203922909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprint-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 141
+        width: 139
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f92ef51b0269730800000000000000
+      internalID: 4005424864782622570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprint-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1
+        width: 138
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75eccb4f849812590800000000000000
+      internalID: -7700722941390172585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprint-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 429
+        width: 171
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d61cd4e18b1db10800000000000000
+      internalID: 2004585749449633095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprint-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 286
+        width: 171
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fdaef3c235521b0800000000000000
+      internalID: -5682043905341989074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprint-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 141
+        width: 170
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c15d1220681fb70800000000000000
+      internalID: 8931066879768075382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprint-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 0
+        width: 173
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c5759faf66ec1d0800000000000000
+      internalID: -3328609846469108622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprint-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 432
+        width: 188
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48787c0dbd4bf6960800000000000000
+      internalID: 7597489952590890884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprint-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 287
+        width: 190
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088ecae19b6b11f70800000000000000
+      internalID: 9156300423620782208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprint-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 142
+        width: 152
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4ec82e472ad1070800000000000000
+      internalID: 8078791929473328335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprint-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1
+        width: 174
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a580ddd80e0649c0800000000000000
+      internalID: -3943448992472332895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprint-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 433
+        width: 179
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe41f7199c35d3330800000000000000
+      internalID: 3692199394708231407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprint-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 287
+        width: 180
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b58f091e623f2160800000000000000
+      internalID: 7002871394032649657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprint-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 143
+        width: 179
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d276aa64e46d979b0800000000000000
+      internalID: -5081795072829528275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprint-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 0
+        width: 178
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516cc393af72d5080800000000000000
+      internalID: -9197150908365093355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
